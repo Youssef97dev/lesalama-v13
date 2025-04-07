@@ -14,7 +14,7 @@ const Contact = () => {
   return (
     <div
       id="contact"
-      className="w-full min-h-[60vh] flex md:flex-row-reverse flex-col"
+      className="w-full min-h-[60vh] flex md:flex-row-reverse flex-col mb-10"
     >
       <div className="relative w-full">
         <Image

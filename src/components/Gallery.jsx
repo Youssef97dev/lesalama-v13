@@ -110,7 +110,7 @@ MemoizedImage.displayName = "MemoizedImage";
 
 const Gallery = () => {
   return (
-    <div id="gallery" className="mx-auto py-5 px-4 mb-10">
+    <div id="gallery" className="mx-auto py-5 px-4 ">
       <LightGallery
         speed={500}
         plugins={[lgThumbnail]}

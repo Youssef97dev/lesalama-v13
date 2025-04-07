@@ -28,8 +28,8 @@ const Loader = () => {
           <MobileAccordion />
           <DesktopAccordion />
           <Events />
-          <Contact />
           <Gallery />
+          <Contact />
           <div className="fixed bottom-0 left-0 w-full block lg:hidden z-10">
             <BookingButton />
           </div>

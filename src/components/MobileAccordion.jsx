@@ -3,6 +3,7 @@ import AnimateHeight from "react-animate-height";
 import { useState } from "react";
 import { TiArrowSortedDown, TiArrowSortedUp } from "react-icons/ti";
 import { useTranslation } from "react-i18next";
+import Image from "next/image";
 
 const MobileAccordion = () => {
   const [active, setActive] = useState("1");
@@ -33,14 +34,13 @@ const MobileAccordion = () => {
             className="transition-all ease-in-out"
             height={active === "1" ? "auto" : 0}
           >
-            <div
-              className="relative bg-cover bg-center h-[50vh]"
-              style={{
-                backgroundImage: "url('/hero/salama_acc_1.jpg')",
-                backgroundSize: "cover",
-                backgroundPosition: "center",
-              }}
-            >
+            <div className="relative h-[50vh]">
+              <Image
+                src="/hero/salama_acc_1.jpg"
+                height={1000}
+                width={1000}
+                className="object-cover w-full h-full"
+              />
               <div className="absolute inset-0 bg-gradient-to-t from-black to-transparent opacity-40"></div>
               <div className="absolute left-4 bottom-12 text-white flex justify-start items-start gap-2">
                 <TiArrowSortedUp className="mt-1" size={18} />
@@ -74,15 +74,13 @@ const MobileAccordion = () => {
             className="transition-all ease-in-out"
             height={active === "2" ? "auto" : 0}
           >
-            <div
-              className="relative bg-cover bg-center h-[50vh]"
-              style={{
-                backgroundImage:
-                  "url('https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_auto/v1/salamaV10/pqcmjknzncbjegbdmbnk')",
-                backgroundSize: "cover",
-                backgroundPosition: "center",
-              }}
-            >
+            <div className="relative h-[50vh]">
+              <Image
+                src="https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_auto/v1/salamaV10/pqcmjknzncbjegbdmbnk"
+                height={1000}
+                width={1000}
+                className="object-cover w-full h-full"
+              />
               <div className="absolute inset-0 bg-gradient-to-t from-black to-transparent opacity-40"></div>
               <div className="absolute left-4 bottom-12 text-white flex justify-start items-start gap-2">
                 <TiArrowSortedUp className="mt-1" size={18} />
@@ -114,14 +112,13 @@ const MobileAccordion = () => {
             className="transition-all ease-in-out"
             height={active === "3" ? "auto" : 0}
           >
-            <div
-              className="relative bg-cover bg-center h-[50vh]"
-              style={{
-                backgroundImage: "url('/hero/salama_sunset.jpg')",
-                backgroundSize: "cover",
-                backgroundPosition: "center",
-              }}
-            >
+            <div className="relative h-[50vh]">
+              <Image
+                src="/hero/salama_sunset.jpg"
+                height={1000}
+                width={1000}
+                className="object-cover w-full h-full"
+              />
               <div className="absolute inset-0 bg-gradient-to-t from-black to-transparent opacity-40"></div>
               <div className="absolute left-4 bottom-12 text-white flex justify-start items-start gap-2">
                 <TiArrowSortedUp className="mt-1" size={18} />
@@ -153,15 +150,13 @@ const MobileAccordion = () => {
             className="transition-all ease-in-out"
             height={active === "4" ? "auto" : 0}
           >
-            <div
-              className="relative bg-cover bg-center h-[50vh]"
-              style={{
-                backgroundImage:
-                  "url('https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_auto/v1/Salama/po692czexw9alolb2qll')",
-                backgroundSize: "cover",
-                backgroundPosition: "center",
-              }}
-            >
+            <div className="relative h-[50vh]">
+              <Image
+                src="https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_auto/v1/Salama/po692czexw9alolb2qll"
+                height={1000}
+                width={1000}
+                className="object-cover w-full h-full"
+              />
               <div className="absolute inset-0 bg-gradient-to-t from-black to-transparent opacity-40"></div>
               <div className="absolute left-4 bottom-12 text-white flex justify-start items-start gap-2">
                 <TiArrowSortedUp className="mt-1" size={18} />

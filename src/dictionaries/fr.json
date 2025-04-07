@@ -26,12 +26,12 @@
   },
   "accordion": {
     "title_1": "Restaurant",
-    "title_2": "Terrasse",
-    "title_3": "Patio",
-    "title_4": "Club",
-    "desc_1": "Cuisine d'ici et d'aillleurs",
-    "desc_2": "Diner la tête dans les étoiles",
-    "desc_3": "Plongez au coeur d'un temple de sérénité",
-    "desc_4": "Spectacle en direct expérience orientale"
+    "title_2": "Culinaire",
+    "title_3": "Sunset",
+    "title_4": "Spectacle",
+    "desc_1": "Savourez une fusion de saveurs locales et de délices du monde.",
+    "desc_2": "Dînez sous une toile d'étoiles, où chaque bouchée est céleste.",
+    "desc_3": "Admirez les couleurs époustouflantes du ciel tout en vous régalant, où chaque coucher de soleil est une célébration.",
+    "desc_4": "Vivez une soirée enchanteresse avec des performances live et une vie nocturne vibrante."
   }
 }

@@ -116,8 +116,7 @@ const MobileAccordion = () => {
             <div
               className="relative bg-cover bg-center h-[50vh]"
               style={{
-                backgroundImage:
-                  "url('https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_auto/v1/Salama/menu-gallery-25_wtt0k2')",
+                backgroundImage: "url('/hero/salama_sunset.jpg')",
                 backgroundSize: "cover",
                 backgroundPosition: "center",
               }}

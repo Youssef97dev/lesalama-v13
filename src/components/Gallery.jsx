@@ -7,104 +7,104 @@ import Image from "next/image";
 
 const galleryItems = [
   {
-    src: "https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_auto/v1/salama-V2/a7o2rbmgitucumu4lp1m",
+    src: "https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_30/v1/salama-V2/a7o2rbmgitucumu4lp1m",
     thumbnail:
-      "https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_auto/v1/salama-V2/a7o2rbmgitucumu4lp1m",
+      "https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_30/v1/salama-V2/a7o2rbmgitucumu4lp1m",
   },
   {
-    src: "https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_auto/v1/salama-V2/a3vwgprl2hhg9cyf2mov",
+    src: "https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_30/v1/salama-V2/a3vwgprl2hhg9cyf2mov",
     thumbnail:
-      "https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_auto/v1/salama-V2/a3vwgprl2hhg9cyf2mov",
+      "https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_30/v1/salama-V2/a3vwgprl2hhg9cyf2mov",
   },
   {
-    src: "https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_auto/v1/salama-V2/fnezjj5w3bb716kn09y9",
+    src: "https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_30/v1/salama-V2/fnezjj5w3bb716kn09y9",
     thumbnail:
-      "https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_auto/v1/salama-V2/fnezjj5w3bb716kn09y9",
+      "https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_30/v1/salama-V2/fnezjj5w3bb716kn09y9",
   },
   {
-    src: "https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_auto/v1/salama-V2/f9p7bzwtaraxmovgqyeh",
+    src: "https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_30/v1/salama-V2/f9p7bzwtaraxmovgqyeh",
     thumbnail:
-      "https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_auto/v1/salama-V2/f9p7bzwtaraxmovgqyeh",
+      "https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_30/v1/salama-V2/f9p7bzwtaraxmovgqyeh",
   },
   {
-    src: "https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_auto/v1/salama-V2/wjujhoikhd0iz8lobjmd",
+    src: "https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_30/v1/salama-V2/wjujhoikhd0iz8lobjmd",
     thumbnail:
-      "https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_auto/v1/salama-V2/wjujhoikhd0iz8lobjmd",
+      "https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_30/v1/salama-V2/wjujhoikhd0iz8lobjmd",
   },
   {
-    src: "https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_auto/v1/salama-V2/ypw98v2x57uxrawqaucu",
+    src: "https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_30/v1/salama-V2/ypw98v2x57uxrawqaucu",
     thumbnail:
-      "https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_auto/v1/salama-V2/ypw98v2x57uxrawqaucu",
+      "https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_30/v1/salama-V2/ypw98v2x57uxrawqaucu",
   },
   {
-    src: "https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_auto/v1/salama-V2/dgyjhmonztajufhiilwk",
+    src: "https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_30/v1/salama-V2/dgyjhmonztajufhiilwk",
     thumbnail:
       "https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_auto/v1/salama-V2/dgyjhmonztajufhiilwk",
   },
   {
-    src: "https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_auto/v1/salama-V2/d4tkul9faiuji7jxcwpe",
+    src: "https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_30/v1/salama-V2/d4tkul9faiuji7jxcwpe",
     thumbnail:
-      "https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_auto/v1/salama-V2/d4tkul9faiuji7jxcwpe",
+      "https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_30/v1/salama-V2/d4tkul9faiuji7jxcwpe",
   },
   {
-    src: "https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_auto/v1/salama-V2/zphdnlvatgiwsw8rd93i",
+    src: "https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_30/v1/salama-V2/zphdnlvatgiwsw8rd93i",
     thumbnail:
-      "https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_auto/v1/salama-V2/zphdnlvatgiwsw8rd93i",
+      "https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_30/v1/salama-V2/zphdnlvatgiwsw8rd93i",
   },
   {
-    src: "https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_auto/v1/salama-V2/w7od2aow2zbejbfxurht",
+    src: "https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_30/v1/salama-V2/w7od2aow2zbejbfxurht",
     thumbnail:
-      "https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_auto/v1/salama-V2/w7od2aow2zbejbfxurht",
+      "https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_30/v1/salama-V2/w7od2aow2zbejbfxurht",
   },
   {
-    src: "https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_auto/v1/salama-V2/n4kdk6daeadzy7ipmyqe",
+    src: "https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_30/v1/salama-V2/n4kdk6daeadzy7ipmyqe",
     thumbnail:
-      "https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_auto/v1/salama-V2/n4kdk6daeadzy7ipmyqe",
+      "https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_30/v1/salama-V2/n4kdk6daeadzy7ipmyqe",
   },
   {
-    src: "https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_auto/v1/salama-V2/cpgsvredpzheozexmdur",
+    src: "https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_30/v1/salama-V2/cpgsvredpzheozexmdur",
     thumbnail:
-      "https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_auto/v1/salama-V2/cpgsvredpzheozexmdur",
+      "https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_30/v1/salama-V2/cpgsvredpzheozexmdur",
   },
   {
-    src: "https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_auto/v1/salama-V2/fqe4wpsjg6aoctsmwsbi",
+    src: "https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_30/v1/salama-V2/fqe4wpsjg6aoctsmwsbi",
     thumbnail:
-      "https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_auto/v1/salama-V2/fqe4wpsjg6aoctsmwsbi",
+      "https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_30/v1/salama-V2/fqe4wpsjg6aoctsmwsbi",
   },
   {
-    src: "https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_auto/v1/salama-V2/buxnfuyskb8b7y3qiguj",
+    src: "https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_30/v1/salama-V2/buxnfuyskb8b7y3qiguj",
     thumbnail:
-      "https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_auto/v1/salama-V2/buxnfuyskb8b7y3qiguj",
+      "https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_30/v1/salama-V2/buxnfuyskb8b7y3qiguj",
   },
   {
-    src: "https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_auto/v1/salama-V2/fwdhshvreqowanjy0ky4",
+    src: "https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_30/v1/salama-V2/fwdhshvreqowanjy0ky4",
     thumbnail:
-      "https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_auto/v1/salama-V2/fwdhshvreqowanjy0ky4",
+      "https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_30/v1/salama-V2/fwdhshvreqowanjy0ky4",
   },
   {
-    src: "https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_auto/v1/salama-V2/rimrxc1hbygsfdidqrdl",
+    src: "https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_30/v1/salama-V2/rimrxc1hbygsfdidqrdl",
     thumbnail:
       "https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_auto/v1/salama-V2/rimrxc1hbygsfdidqrdl",
   },
   {
-    src: "https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_auto/v1/salama-V2/wpeblknuvih6agl39p4q",
+    src: "https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_30/v1/salama-V2/wpeblknuvih6agl39p4q",
     thumbnail:
-      "https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_auto/v1/salama-V2/wpeblknuvih6agl39p4q",
+      "https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_30/v1/salama-V2/wpeblknuvih6agl39p4q",
   },
   {
-    src: "https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_auto/v1/salama-V2/yavd4h16bc6shbscug6u",
+    src: "https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_30/v1/salama-V2/yavd4h16bc6shbscug6u",
     thumbnail:
-      "https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_auto/v1/salama-V2/yavd4h16bc6shbscug6u",
+      "https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_30/v1/salama-V2/yavd4h16bc6shbscug6u",
   },
   {
-    src: "https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_auto/v1/salama-V2/urz9wpnkvpkgvjukvhxy",
+    src: "https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_30/v1/salama-V2/urz9wpnkvpkgvjukvhxy",
     thumbnail:
-      "https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_auto/v1/salama-V2/urz9wpnkvpkgvjukvhxy",
+      "https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_30/v1/salama-V2/urz9wpnkvpkgvjukvhxy",
   },
   {
-    src: "https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_auto/v1/salama-V2/aiu0xyq0yszojj6tun6a",
+    src: "https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_30/v1/salama-V2/aiu0xyq0yszojj6tun6a",
     thumbnail:
-      "https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_auto/v1/salama-V2/aiu0xyq0yszojj6tun6a",
+      "https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_30/v1/salama-V2/aiu0xyq0yszojj6tun6a",
   },
 ];
 

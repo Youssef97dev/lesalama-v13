@@ -36,7 +36,8 @@ const MobileAccordion = () => {
           >
             <div className="relative h-[50vh]">
               <Image
-                src="/hero/salama_acc_1.jpg"
+                src="https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_auto/v1/salama-V2/jijioevym7tnocxelt0y"
+                alt="Le Salama Restaurant"
                 height={1000}
                 width={1000}
                 className="object-cover w-full h-full"
@@ -48,7 +49,7 @@ const MobileAccordion = () => {
                   <strong className="font-azahra">
                     {t("accordion.title_1")}
                   </strong>
-                  <b className="text-[14px] font-azahra leading-[20px]">
+                  <b className="text-[14px] font-light leading-[20px]">
                     {t("accordion.desc_1")}
                   </b>
                 </div>
@@ -76,7 +77,8 @@ const MobileAccordion = () => {
           >
             <div className="relative h-[50vh]">
               <Image
-                src="https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_auto/v1/salamaV10/pqcmjknzncbjegbdmbnk"
+                src="https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_auto/v1/salama-V2/dg0ywshnfws41a3p64r2"
+                alt="Le Salama Culinary"
                 height={1000}
                 width={1000}
                 className="object-cover w-full h-full"
@@ -86,7 +88,7 @@ const MobileAccordion = () => {
                 <TiArrowSortedUp className="mt-1" size={18} />
                 <div className="flex flex-col justify-center items-start">
                   <b className="font-azahra">{t("accordion.title_2")}</b>
-                  <b className="text-[14px] font-azahra leading-[20px]">
+                  <b className="text-[14px] font-light leading-[20px]">
                     {t("accordion.desc_2")}
                   </b>
                 </div>
@@ -114,7 +116,8 @@ const MobileAccordion = () => {
           >
             <div className="relative h-[50vh]">
               <Image
-                src="/hero/salama_sunset.jpg"
+                src="https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_auto/v1/salama-V2/k0zvojoemfvwy8ypgc7o"
+                alt="Le Salama Sunset"
                 height={1000}
                 width={1000}
                 className="object-cover w-full h-full"
@@ -124,7 +127,7 @@ const MobileAccordion = () => {
                 <TiArrowSortedUp className="mt-1" size={18} />
                 <div className="flex flex-col justify-center items-start">
                   <b className="font-azahra">{t("accordion.title_3")}</b>
-                  <b className="text-[14px] font-azahra leading-[20px]">
+                  <b className="text-[14px] font-light leading-[20px]">
                     {t("accordion.desc_3")}
                   </b>
                 </div>
@@ -152,7 +155,8 @@ const MobileAccordion = () => {
           >
             <div className="relative h-[50vh]">
               <Image
-                src="https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_auto/v1/Salama/po692czexw9alolb2qll"
+                src="https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_auto/v1/salama-V2/cpgsvredpzheozexmdur"
+                alt="Le Salama Belly Dance"
                 height={1000}
                 width={1000}
                 className="object-cover w-full h-full"
@@ -162,7 +166,7 @@ const MobileAccordion = () => {
                 <TiArrowSortedUp className="mt-1" size={18} />
                 <div className="flex flex-col justify-center items-start">
                   <span className="font-azahra">{t("accordion.title_4")}</span>
-                  <b className="text-[14px] font-azahra leading-[20px]">
+                  <b className="text-[14px] font-light leading-[20px]">
                     {t("accordion.desc_4")}
                   </b>
                 </div>

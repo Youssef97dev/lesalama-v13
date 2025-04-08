@@ -19,10 +19,10 @@ const About = () => {
           repeat={Infinity}
         />
       </h1>
-      <p className="text-[16px] leading-[34px] px-0 2xl:px-12 text-primary_9">
+      <p className="text-[16px] leading-[34px] px-0 2xl:px-12 font-light text-primary_9">
         {t("about.content_1")}
       </p>
-      <p className="text-[16px] leading-[34px] px-0 2xl:px-12 text-primary_9">
+      <p className="text-[16px] leading-[34px] px-0 2xl:px-12 font-light text-primary_9">
         {t("about.content_2")}
       </p>
       <Link

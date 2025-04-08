@@ -71,41 +71,6 @@ const galleryItems = [
     thumbnail:
       "https://res.cloudinary.com/dz7wroord/image/upload/f_webp/q_10/v1/salama-V2/fqe4wpsjg6aoctsmwsbi",
   },
-  {
-    src: "https://res.cloudinary.com/dz7wroord/image/upload/f_webp/q_10/v1/salama-V2/buxnfuyskb8b7y3qiguj",
-    thumbnail:
-      "https://res.cloudinary.com/dz7wroord/image/upload/f_webp/q_10/v1/salama-V2/buxnfuyskb8b7y3qiguj",
-  },
-  {
-    src: "https://res.cloudinary.com/dz7wroord/image/upload/f_webp/q_10/v1/salama-V2/fwdhshvreqowanjy0ky4",
-    thumbnail:
-      "https://res.cloudinary.com/dz7wroord/image/upload/f_webp/q_10/v1/salama-V2/fwdhshvreqowanjy0ky4",
-  },
-  {
-    src: "https://res.cloudinary.com/dz7wroord/image/upload/f_webp/q_10/v1/salama-V2/rimrxc1hbygsfdidqrdl",
-    thumbnail:
-      "https://res.cloudinary.com/dz7wroord/image/upload/f_webp/q_10/v1/salama-V2/rimrxc1hbygsfdidqrdl",
-  },
-  {
-    src: "https://res.cloudinary.com/dz7wroord/image/upload/f_webp/q_10/v1/salama-V2/wpeblknuvih6agl39p4q",
-    thumbnail:
-      "https://res.cloudinary.com/dz7wroord/image/upload/f_webp/q_10/v1/salama-V2/wpeblknuvih6agl39p4q",
-  },
-  {
-    src: "https://res.cloudinary.com/dz7wroord/image/upload/f_webp/q_10/v1/salama-V2/yavd4h16bc6shbscug6u",
-    thumbnail:
-      "https://res.cloudinary.com/dz7wroord/image/upload/f_webp/q_10/v1/salama-V2/yavd4h16bc6shbscug6u",
-  },
-  {
-    src: "https://res.cloudinary.com/dz7wroord/image/upload/f_webp/q_10/v1/salama-V2/urz9wpnkvpkgvjukvhxy",
-    thumbnail:
-      "https://res.cloudinary.com/dz7wroord/image/upload/f_webp/q_10/v1/salama-V2/urz9wpnkvpkgvjukvhxy",
-  },
-  {
-    src: "https://res.cloudinary.com/dz7wroord/image/upload/f_webp/q_10/v1/salama-V2/aiu0xyq0yszojj6tun6a",
-    thumbnail:
-      "https://res.cloudinary.com/dz7wroord/image/upload/f_webp/q_10/v1/salama-V2/aiu0xyq0yszojj6tun6a",
-  },
 ];
 
 const MemoizedImage = React.memo(({ src, alt }) => (

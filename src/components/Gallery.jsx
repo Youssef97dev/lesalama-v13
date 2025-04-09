@@ -7,43 +7,43 @@ import Image from "next/image";
 
 const galleryItems = [
   {
-    src: "https://res.cloudinary.com/dz7wroord/image/upload/q_auto:low/v1/salama-V2/a7o2rbmgitucumu4lp1m",
+    src: "https://res.cloudinary.com/dz7wroord/image/upload/c_thumb,h_1500,w_1000/v1/salama-V2/a7o2rbmgitucumu4lp1m",
   },
   {
-    src: "https://res.cloudinary.com/dz7wroord/image/upload/q_auto:low/v1/salama-V2/a3vwgprl2hhg9cyf2mov",
+    src: "https://res.cloudinary.com/dz7wroord/image/upload/c_thumb,h_1500,w_1000/v1/salama-V2/a3vwgprl2hhg9cyf2mov",
   },
   {
-    src: "https://res.cloudinary.com/dz7wroord/image/upload/q_auto:low/v1/salama-V2/fnezjj5w3bb716kn09y9",
+    src: "https://res.cloudinary.com/dz7wroord/image/upload/c_thumb,h_1000,w_1500/v1/salama-V2/fnezjj5w3bb716kn09y9",
   },
   {
-    src: "https://res.cloudinary.com/dz7wroord/image/upload/q_auto:low/v1/salama-V2/f9p7bzwtaraxmovgqyeh",
+    src: "https://res.cloudinary.com/dz7wroord/image/upload/c_thumb,h_1500,w_1000/v1/salama-V2/f9p7bzwtaraxmovgqyeh",
   },
   {
-    src: "https://res.cloudinary.com/dz7wroord/image/upload/q_auto:low/v1/salama-V2/wjujhoikhd0iz8lobjmd",
+    src: "https://res.cloudinary.com/dz7wroord/image/upload/c_thumb,h_1500,w_1000/salama-V2/wjujhoikhd0iz8lobjmd",
   },
   {
-    src: "https://res.cloudinary.com/dz7wroord/image/upload/q_auto:low/v1/salama-V2/ypw98v2x57uxrawqaucu",
+    src: "https://res.cloudinary.com/dz7wroord/image/upload/c_thumb,h_1500,w_1000/v1/salama-V2/ypw98v2x57uxrawqaucu",
   },
   {
-    src: "https://res.cloudinary.com/dz7wroord/image/upload/q_auto:low/v1/salama-V2/dgyjhmonztajufhiilwk",
+    src: "https://res.cloudinary.com/dz7wroord/image/upload/c_thumb,h_1500,w_1000/v1/salama-V2/dgyjhmonztajufhiilwk",
   },
   {
-    src: "https://res.cloudinary.com/dz7wroord/image/upload/q_auto:low/v1/salama-V2/d4tkul9faiuji7jxcwpe",
+    src: "https://res.cloudinary.com/dz7wroord/image/upload/c_thumb,h_1000,w_1500/v1/salama-V2/d4tkul9faiuji7jxcwpe",
   },
   {
-    src: "https://res.cloudinary.com/dz7wroord/image/upload/q_auto:low/v1/salama-V2/zphdnlvatgiwsw8rd93i",
+    src: "https://res.cloudinary.com/dz7wroord/image/upload/c_thumb,h_1500,w_1000/v1/salama-V2/zphdnlvatgiwsw8rd93i",
   },
   {
-    src: "https://res.cloudinary.com/dz7wroord/image/upload/q_auto:low/v1/salama-V2/w7od2aow2zbejbfxurht",
+    src: "https://res.cloudinary.com/dz7wroord/image/upload/c_thumb,h_1500,w_1000/v1/salama-V2/w7od2aow2zbejbfxurht",
   },
   {
-    src: "https://res.cloudinary.com/dz7wroord/image/upload/q_auto:low/v1/salama-V2/n4kdk6daeadzy7ipmyqe",
+    src: "https://res.cloudinary.com/dz7wroord/image/upload/c_thumb,h_1500,w_1000/v1/salama-V2/n4kdk6daeadzy7ipmyqe",
   },
   {
-    src: "https://res.cloudinary.com/dz7wroord/image/upload/q_auto:low/v1/salama-V2/cpgsvredpzheozexmdur",
+    src: "https://res.cloudinary.com/dz7wroord/image/upload/c_thumb,h_1000,w_1500/v1/salama-V2/cpgsvredpzheozexmdur",
   },
   {
-    src: "https://res.cloudinary.com/dz7wroord/image/upload/q_auto:low/v1/salama-V2/fqe4wpsjg6aoctsmwsbi",
+    src: "https://res.cloudinary.com/dz7wroord/image/upload/c_thumb,h_1500,w_1000/v1/salama-V2/fqe4wpsjg6aoctsmwsbi",
   },
 ];
 

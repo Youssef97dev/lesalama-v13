@@ -97,9 +97,9 @@ const Gallery = () => {
         elementClassNames="masonry"
       >
         {galleryItems?.map((image, index) => (
-          <Link href={image.thumbnail} key={index}>
+          <Link href={image.src} key={index}>
             <div className="masonry-item relative shadow-lg hover:scale-105 transition-all ease-linear overflow-hidden">
-              <MemoizedImage src={image.src} alt={`Le salama ${index}`} />
+              <MemoizedImage src={image.thumbnail} alt={`Le salama ${index}`} />
             </div>
           </Link>
         ))}

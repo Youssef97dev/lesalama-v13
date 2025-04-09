@@ -36,7 +36,7 @@ const MobileAccordion = () => {
           >
             <div className="relative h-[50vh]">
               <Image
-                src="https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_auto/v1/salama-V2/jijioevym7tnocxelt0y"
+                src="https://res.cloudinary.com/dz7wroord/image/upload/f_webp/q_10/v1/salama-V2/jijioevym7tnocxelt0y"
                 alt="Le Salama Restaurant"
                 height={1000}
                 width={1000}
@@ -77,7 +77,7 @@ const MobileAccordion = () => {
           >
             <div className="relative h-[50vh]">
               <Image
-                src="https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_auto/v1/salama-V2/dg0ywshnfws41a3p64r2"
+                src="https://res.cloudinary.com/dz7wroord/image/upload/f_webp/q_10/v1/salama-V2/dg0ywshnfws41a3p64r2"
                 alt="Le Salama Culinary"
                 height={1000}
                 width={1000}
@@ -116,7 +116,7 @@ const MobileAccordion = () => {
           >
             <div className="relative h-[50vh]">
               <Image
-                src="https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_auto/v1/salama-V2/k0zvojoemfvwy8ypgc7o"
+                src="https://res.cloudinary.com/dz7wroord/image/upload/f_webp/q_10/v1/salama-V2/k0zvojoemfvwy8ypgc7o"
                 alt="Le Salama Sunset"
                 height={1000}
                 width={1000}
@@ -155,7 +155,7 @@ const MobileAccordion = () => {
           >
             <div className="relative h-[50vh]">
               <Image
-                src="https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_auto/v1/salama-V2/cpgsvredpzheozexmdur"
+                src="https://res.cloudinary.com/dz7wroord/image/upload/f_webp/q_10/v1/salama-V2/cpgsvredpzheozexmdur"
                 alt="Le Salama Belly Dance"
                 height={1000}
                 width={1000}

@@ -9,11 +9,11 @@ const images = [
   "https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_auto/v1/Salama/s9ddjvzdlmsosy5zywop",
 ];
 
-const imagesMobile = [
-  "/hero/4.jpg",
-  "/hero/1.jpg",
-  "/hero/2.jpg",
-  "/hero/3.jpg",
+const mobileImages = [
+  "https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_auto/v1/salama-vnor/g6rzpp98zct8gcxlsexv",
+  "https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_auto/v1/salama-vnor/aqahxx69j3zioo0uwvrq",
+  "https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_auto/v1/salama-vnor/olx3popyo3msqjowhbl5",
+  "https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_auto/v1/salama-vnor/usuix6tsgjhreciq8pcf",
 ];
 
 const Hero = () => {
@@ -47,19 +47,22 @@ const Hero = () => {
         ))}
       </div>
       <div className="relative w-full h-screen block lg:hidden">
-        <video className="object-cover h-full w-full" autoPlay loop muted>
-          <source src="/hero/hero-2.mp4" type="video/mp4" />
-          Your browser does not support the video tag.
-        </video>
-        {/*<div className="absolute w-full h-full flex justify-center items-center">
-          <Image
-            src="/logo-salama-humberger-white.png"
-            alt={`logo le salama`}
-            height={180}
-            width={180}
-            className="object-cover"
-          />
-        </div>*/}
+        {mobileImages.map((src, index) => (
+          <div
+            key={index}
+            className={`absolute   rounded-md inset-0 transition-opacity duration-1000 ${
+              index === currentIndex ? "opacity-100" : "opacity-0"
+            }`}
+          >
+            <Image
+              src={src}
+              alt={`Image ${index + 1}`}
+              layout="fill"
+              objectFit="cover"
+              className="object-cover w-full h-full"
+            />
+          </div>
+        ))}
       </div>
     </>
   );

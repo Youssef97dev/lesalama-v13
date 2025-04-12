@@ -25,6 +25,9 @@ const About = () => {
       <p className="text-[16px] leading-[34px] px-0 2xl:px-12 font-light text-primary_9">
         {t("about.content_2")}
       </p>
+      <p className="text-[16px] leading-[34px] px-0 2xl:px-12 font-light text-primary_9">
+        {t("about.content_3")}
+      </p>
       <Link
         href="https://www.sevenrooms.com/explore/lessalamamarrakech/reservations/create/search/"
         target="_blank"

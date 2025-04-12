@@ -9,6 +9,7 @@ import About from "./About";
 import Events from "./Events";
 import Contact from "./Contact";
 import Gallery from "./Gallery";
+import Culinary from "./Culinary";
 
 const Loader = () => {
   const [isClient, setIsClient] = useState(false);
@@ -28,6 +29,7 @@ const Loader = () => {
           <MobileAccordion />
           <DesktopAccordion />
           <Events />
+          <Culinary />
           <Gallery />
           <Contact />
           <div className="fixed bottom-0 left-0 w-full block lg:hidden z-10">
